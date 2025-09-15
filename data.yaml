@@ -1,0 +1,5 @@
+
+train: NewLogoPictures/images
+val: NewLogoPictures/images
+nc: 1
+names: ['hp_logo']
